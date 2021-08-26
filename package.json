@@ -7,12 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "vuepress build src",
     "cleanDev": "vuepress dev src --no-cache",
-    "dev": "vuepress dev src"
+    "dev": "vuepress dev src",
+    "deploy": "bash deploy.sh"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@zolyn/vuepress-plugin-rightmenu": "^1.1.0",
     "vuepress": "^1.8.2",
     "vuepress-theme-gungnir": "^0.2.0"
+  },
+  "dependencies": {
+    "@renovamen/vuepress-plugin-md-plus": "^0.2.0",
+    "@renovamen/vuepress-plugin-rss": "^0.2.0",
+    "@vssue/api-github-v4": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.8"
   }
 }
