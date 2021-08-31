@@ -3,12 +3,16 @@ layout: Links
 links:
   - title: 博客
     items:
-      - sitename: Renovamen
-        url: https://zxh.io
-        img: https://vuepress-theme-gungnir.vercel.app/img/links/me.png
-        desc: Gungnir主题作者博客
-      - sitename: Shelter
-        url: https://pikasama_admin.gitee.io
-        img: https://cdn.jsdelivr.net/gh/Zolyn/StaticFiles@2021.5.1-release.0/hexo/images/avatar2.png
-        desc: 我的故居（暂时废弃）
+      - sitename: JS Tips
+        url: https://www.jstips.co/zh_CN/javascript/
+        img: /images/links/js-tips.png
+        desc: JS-Tips学习网站
+      - sitename: Animate.css
+        url: https://animate.style/
+        img: /images/links/animate-css.jpg
+        desc: CSS动画库
+      - sitename: cdnjs
+        url: https://cdnjs.com/
+        img: /images/links/cdnjs.png
+        desc: Javascript资源库
 ---
