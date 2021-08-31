@@ -13,11 +13,40 @@ module.exports = {
     clientId: 'c95ee043de59ec25b149',
     clientSecret: 'f5754e3630d513408092b27b9ab8c7c3d3d55819',
   },
+
+
   // 鼠标右键显示菜单插件
   '@zolyn/rightmenu': {
     config: resolve(__dirname, './rightmenu.js')
   },
+
+
+  // 提供rss支持
+  '@renovamen/rss': {
+    site_url: 'https://langyixuan.github.io/',
+    copyright: 'YixuanLang 2020-2021',
+    count: 20
+  },
+
+
+  // markdown增强功能
+  // [Markdown Enhance]: https://vuepress-theme-hope.github.io/md-enhance/zh/guide/mark/
+  'md-enhance': {
+    // mark: true,
+    lineNumbers: false,
+    align: true,
+    sup: true,
+    sub: true,
+    footnote: true,
+    tasklist: true,
+  },
   
+
+  // 让页面图像支持预览，缩放，共享，滑动查看和下载的插件
+  'photo-swipe': {
+    container: '.theme-content',
+    selector: '.theme-content :not(a) > img'
+  },
   // '@vuepress/last-updated': {
   //     transformer: (timestamp) => moment(timestamp).add(8, 'h').format('YYYY-MM-DD HH:mm:ss A')
   // },
@@ -44,14 +73,7 @@ module.exports = {
   //         serverURLs: 'https://wmburiyz.api.lncldglobal.com'
   //     }
   // },
-  // 'md-enhance': {
-  //     lineNumbers: false,
-  //     align: true,
-  //     sup: true,
-  //     sub: true,
-  //     footnote: true,
-  //     tasklist: true,
-  // },
+  
   // '@mr-hope/pwa': {
   //     favicon: '/icon-192.png',
   //     themeColor: '#377bb5',
@@ -80,16 +102,8 @@ module.exports = {
   //         image: '/icon-192.png'
   //     }
   // },
-  // 'photo-swipe': {
-  //     container: '.theme-content',
-  //     selector: '.theme-content :not(a) > img'
-  // },
   // '@mr-hope/copy-code': {
   //     selector: '.theme-content div[class*="language-"] pre'
   // },
-  // '@renovamen/rss': {
-  //     site_url: 'https://blog.zorinchan.icu',
-  //     copyright: 'Zorin 2020-2021',
-  //     count: 20
-  // },
+
 }
