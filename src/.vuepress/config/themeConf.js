@@ -34,10 +34,10 @@ module.exports = {
   // homeHeaderImages: false,
   homeHeaderImages: [
       {
-          "path": '/images/home-bg/1.gif',
+          "path": '/images/home-bg/6.gif',
       },
       {
-          "path": '/images/home-bg/2.gif',
+          "path": '/images/home-bg/8.gif',
       },
       {
           "path": '/images/home-bg/3.gif',
@@ -137,9 +137,9 @@ module.exports = {
           }
       },
       links: {
-          subtitle: '诶嘿，这里是链接页~',
+          subtitle: '记录一些常用的链接~',
           bgImage: {
-              path: 'https://static.monknow.com/newtab/wallpaper/c44de9f778cfd4b199c77558edc4c368.jpg'
+              path: '/images/links/links-bg.gif'
           }
       },
       bb: {

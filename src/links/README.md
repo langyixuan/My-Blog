@@ -1,7 +1,7 @@
 ---
 layout: Links
 links:
-  - title: 博客
+  - title: 常用的链接
     items:
       - sitename: JS Tips
         url: https://www.jstips.co/zh_CN/javascript/
@@ -15,4 +15,16 @@ links:
         url: https://cdnjs.com/
         img: /images/links/cdnjs.png
         desc: Javascript资源库
+      - sitename: Behance
+        url: https://www.behance.net/
+        img: /images/links/behance.jpg
+        desc: 艺术及设计
+      - sitename: npm
+        url: https://www.npmjs.com/
+        img: /images/links/npm.png
+        desc: NodeJS包管理工具
+      - sitename: Vue.js
+        url: https://vuejs.org/
+        img: /images/links/vue.png
+        desc: Vue.js官方文档
 ---
