@@ -34,16 +34,28 @@ module.exports = {
   // homeHeaderImages: false,
   homeHeaderImages: [
       {
-          "path": '/images/home-bg/6.gif',
+          "path": '/images/home-bg/111.gif',
       },
       {
-          "path": '/images/home-bg/8.gif',
+          "path": '/images/home-bg/222.gif',
       },
       {
-          "path": '/images/home-bg/3.gif',
+          "path": '/images/home-bg/333.gif',
       },
       {
-          "path": '/images/home-bg/4.gif',
+          "path": '/images/home-bg/444.gif',
+      },
+      {
+          "path": '/images/home-bg/555.gif',
+      },
+      {
+          "path": '/images/home-bg/666.gif',
+      },
+      {
+          "path": '/images/home-bg/777.gif',
+      },
+      {
+          "path": '/images/home-bg/888.gif',
       },
   ],
   // 配置导航栏
