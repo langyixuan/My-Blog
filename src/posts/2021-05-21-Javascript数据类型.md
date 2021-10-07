@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Javascript数据类型
-subtitle: Javascript的数据类型以及如何判断数据类型
+title: JavaScript数据类型
+subtitle: JavaScript的数据类型以及如何判断数据类型
 date: 2021-05-21
 tags:
- - Javascript
+ - JavaScript
 catalog: true
 header_img: /images/header-bg/21-5-21-1.gif
 header_style: image
@@ -16,7 +16,7 @@ header_style: image
 
 ![maxresdefault](https://i.loli.net/2021/09/04/KbXnNAmfoM9wkpU.jpg)
 
-学习Javascript时，首先需要了解Javascript的数据类型。这对后期的学习非常的重要。
+学习JavaScript时，首先需要了解Javascript的数据类型。这对后期的学习非常的重要。
 
 
 

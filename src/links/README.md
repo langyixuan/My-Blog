@@ -35,4 +35,8 @@ links:
         url: https://www.bootcss.com/
         img: /images/links/bootstrap.jpg
         desc: 前端开发框架
+      - sitename: Medium
+        url: https://medium.com/
+        img: /images/links/medium.png
+        desc: 优质博客平台       
 ---

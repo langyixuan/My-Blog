@@ -4,7 +4,7 @@ title: let const和var之间的区别
 subtitle: JavaScript 中的 var let 和 const 之间有什么区别
 date: 2021-05-27
 tags:
- - Javascript
+ - JavaScript
 catalog: true
 header_img: /images/header-bg/21-5-27-1.gif
 header_style: image
