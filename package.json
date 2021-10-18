@@ -23,6 +23,7 @@
     "@renovamen/vuepress-plugin-md-plus": "^0.2.0",
     "@renovamen/vuepress-plugin-rss": "^0.2.0",
     "@vssue/api-github-v4": "^1.4.7",
-    "@vssue/vuepress-plugin-vssue": "^1.4.8"
+    "@vssue/vuepress-plugin-vssue": "^1.4.8",
+    "realm": "^2.1.0"
   }
 }
